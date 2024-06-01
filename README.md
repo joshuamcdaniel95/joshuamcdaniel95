@@ -1,10 +1,10 @@
 
-## hi there
-i'm a full-stack engineer by day ☼ and occasional music creator by night ☾
-software engineer at OSLabs;
-Bractlet SWE Series 2023, Featured Speaker
+## hi, there 🏄‍♂️ <br/>
+i'm a full-stack engineer ☼ and sometimes I release music and play shows ☾ <br/>
+software engineer at OSLabs; <br/>
+Bractlet SWE Series 2023, Featured Speaker <br/>
 
-⚙️ using daily: .js, .html, .css, .tsx ...and so on
-🌍 mostly active within the frontend community
-💅 Designed: qevlar, vayK, audio effect libraries, etc…
-💬 ping me about hyperpop, algorithms, UI design, branding, react 
+⚙️ using daily: .js, .html, .css, .tsx ...and so on <br/>
+🌍 mostly active within the frontend community <br/>
+💅 Designed: qevlar, vayK, audio effect libraries, etc… <br/>
+💬 ping me about hyperpop, algorithms, UI design, branding, react <br/>
