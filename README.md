@@ -1,6 +1,6 @@
 
 ## hi, there 🏄‍♂️ <br/>
-i'm a full-stack engineer ☼ and sometimes I release music and play shows ☾ <br/><br/>
+i'm a full-stack engineer ☼ ...and sometimes I release music and play shows ☾ <br/><br/>
 software engineer at OSLabs <br/>
 Bractlet SWE Series 2023, Featured Speaker <br/>
 
