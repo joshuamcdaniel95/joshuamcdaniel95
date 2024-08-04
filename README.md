@@ -1,5 +1,5 @@
 
-## hey 🏄‍♂️ <br/>
+## 🏄‍♂️ <br/>
 i'm a full-stack engineer + I sometimes release music and play shows <br/><br/>
 software engineer with OSLabs <br/>
 Bractlet SWE Series 2023, Featured Speaker <br/>
